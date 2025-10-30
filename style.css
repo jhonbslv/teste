@@ -88,7 +88,7 @@ section:nth-of-type(5){
 
 section:nth-of-type(7){
     height: 400px;
-    background: url(./img/Florestas.jpg) center center/cover;
+    background: url(assets/florestas.jpeg) center center/cover;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: color;
     background-attachment: fixed;
